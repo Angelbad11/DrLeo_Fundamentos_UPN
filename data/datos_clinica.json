@@ -1,0 +1,464 @@
+{
+    "version": 2,
+    "datos_personales_protegidos": true,
+    "propietarios": [
+        {
+            "id_ponkis": "P-0001",
+            "nombre": "enc:y0Apw-76kLdgEruYXRpxHY_0qDTM",
+            "dni": "enc:sRFqNnuogsY=",
+            "telefono": "enc:vxhoN3SjgMky"
+        },
+        {
+            "id_ponkis": "P-0002",
+            "nombre": "enc:xUApbCzokLRhFbSLVxEwbrz3oy_e5A==",
+            "dni": "enc:sRFpM3qiiMg=",
+            "telefono": "enc:vxBvOXWjgcIx"
+        },
+        {
+            "id_ponkis": "P-0003",
+            "nombre": "enc:0EA3ZTHy0dFUFbyKQxswb7z2rSY=",
+            "dni": "enc:sRFiMnuigME=",
+            "telefono": "enc:vxRuN3qoicQ3"
+        },
+        {
+            "id_ponkis": "P-0004",
+            "nombre": "enc:zE4ow-q7_ZhiFbCVEy5xT7j_pyY=",
+            "dni": "enc:sRFvOHOigsA=",
+            "telefono": "enc:vxRoNnCogMkw"
+        },
+        {
+            "id_ponkis": "P-0005",
+            "nombre": "enc:x08_cib6kL1wAxZUUl5TVR46tDDF",
+            "dni": "enc:sRFjNnaihcM=",
+            "telefono": "enc:vxduNHuqh8cy"
+        },
+        {
+            "id_ponkis": "P-0006",
+            "nombre": "enc:wkg-Zyy78Z1qDqaWEz1xUK30sQ==",
+            "dni": "enc:sRFqNHurg8k=",
+            "telefono": "enc:vxlqNXGih8k9"
+        },
+        {
+            "id_ponkis": "P-0007",
+            "nombre": "enc:1E4oYWPe3JRrAfW0Vhp5U7w=",
+            "dni": "enc:sRFiMnurhMA=",
+            "telefono": "enc:vxhuNnejh8Y8"
+        },
+        {
+            "id_ponkis": "P-0008",
+            "nombre": "enc:ylQyc2Pa3JNgEqGWEzN1U7n0uDQ=",
+            "dni": "enc:sRFjNnCiicA=",
+            "telefono": "enc:vxNjMXujgcMy"
+        },
+        {
+            "id_ponkis": "P-0009",
+            "nombre": "enc:1kA0bCK7-YJkArCVEyp_T6_-sQ==",
+            "dni": "enc:sRFoOXWuicg=",
+            "telefono": "enc:vxZiN3GsicA2"
+        },
+        {
+            "id_ponkis": "P-0010",
+            "nombre": "enc:zE4pZya78Z9xD7uQXF5WUbLppyY=",
+            "dni": "enc:sRFsOHupgcA=",
+            "telefono": "enc:vxFoM3ephsI9"
+        }
+    ],
+    "mascotas": [
+        {
+            "id_ponkis": "M-0001",
+            "nombre": "Luna",
+            "especie": "Canina",
+            "edad": "2",
+            "sexo": "Hembra",
+            "esterilizado": "Sí",
+            "propietario_id": "P-0001",
+            "propietario": "enc:y0Apw-76kLdgEruYXRpxHY_0qDTM",
+            "propietario_dni": "enc:sRFqNnuogsY="
+        },
+        {
+            "id_ponkis": "M-0002",
+            "nombre": "Rocky",
+            "especie": "Canina",
+            "edad": "4",
+            "sexo": "Macho",
+            "esterilizado": "No",
+            "propietario_id": "P-0002",
+            "propietario": "enc:xUApbCzokLRhFbSLVxEwbrz3oy_e5A==",
+            "propietario_dni": "enc:sRFpM3qiiMg="
+        },
+        {
+            "id_ponkis": "M-0003",
+            "nombre": "Milo",
+            "especie": "Felina",
+            "edad": "3",
+            "sexo": "Macho",
+            "esterilizado": "Sí",
+            "propietario_id": "P-0003",
+            "propietario": "enc:0EA3ZTHy0dFUFbyKQxswb7z2rSY=",
+            "propietario_dni": "enc:sRFiMnuigME="
+        },
+        {
+            "id_ponkis": "M-0004",
+            "nombre": "Kira",
+            "especie": "Canina",
+            "edad": "1",
+            "sexo": "Hembra",
+            "esterilizado": "No",
+            "propietario_id": "P-0004",
+            "propietario": "enc:zE4ow-q7_ZhiFbCVEy5xT7j_pyY=",
+            "propietario_dni": "enc:sRFvOHOigsA="
+        },
+        {
+            "id_ponkis": "M-0005",
+            "nombre": "Simba",
+            "especie": "Felina",
+            "edad": "5",
+            "sexo": "Macho",
+            "esterilizado": "Sí",
+            "propietario_id": "P-0005",
+            "propietario": "enc:x08_cib6kL1wAxZUUl5TVR46tDDF",
+            "propietario_dni": "enc:sRFjNnaihcM="
+        },
+        {
+            "id_ponkis": "M-0006",
+            "nombre": "Nala",
+            "especie": "Felina",
+            "edad": "2",
+            "sexo": "Hembra",
+            "esterilizado": "No",
+            "propietario_id": "P-0006",
+            "propietario": "enc:wkg-Zyy78Z1qDqaWEz1xUK30sQ==",
+            "propietario_dni": "enc:sRFqNHurg8k="
+        },
+        {
+            "id_ponkis": "M-0007",
+            "nombre": "Toby",
+            "especie": "Canina",
+            "edad": "6",
+            "sexo": "Macho",
+            "esterilizado": "Sí",
+            "propietario_id": "P-0007",
+            "propietario": "enc:1E4oYWPe3JRrAfW0Vhp5U7w=",
+            "propietario_dni": "enc:sRFiMnurhMA="
+        },
+        {
+            "id_ponkis": "M-0008",
+            "nombre": "Coco",
+            "especie": "Ave",
+            "edad": "2",
+            "sexo": "Hembra",
+            "esterilizado": "No",
+            "propietario_id": "P-0008",
+            "propietario": "enc:ylQyc2Pa3JNgEqGWEzN1U7n0uDQ=",
+            "propietario_dni": "enc:sRFjNnCiicA="
+        },
+        {
+            "id_ponkis": "M-0009",
+            "nombre": "Max",
+            "especie": "Canina",
+            "edad": "3",
+            "sexo": "Macho",
+            "esterilizado": "No",
+            "propietario_id": "P-0009",
+            "propietario": "enc:1kA0bCK7-YJkArCVEyp_T6_-sQ==",
+            "propietario_dni": "enc:sRFoOXWuicg="
+        },
+        {
+            "id_ponkis": "M-0010",
+            "nombre": "Mía",
+            "especie": "Felina",
+            "edad": "1",
+            "sexo": "Hembra",
+            "esterilizado": "No",
+            "propietario_id": "P-0010",
+            "propietario": "enc:zE4pZya78Z9xD7uQXF5WUbLppyY=",
+            "propietario_dni": "enc:sRFsOHupgcA="
+        }
+    ],
+    "citas": [
+        {
+            "id_ponkis": "C-0001",
+            "mascota_id": "M-0001",
+            "mascota": "Luna",
+            "propietario_id": "P-0001",
+            "propietario_dni": "enc:sRFqNnuogsY=",
+            "fecha": "21/10/2026",
+            "hora": "09:00",
+            "motivo": "Control general",
+            "estado": "Atendida"
+        },
+        {
+            "id_ponkis": "C-0002",
+            "mascota_id": "M-0002",
+            "mascota": "Rocky",
+            "propietario_id": "P-0002",
+            "propietario_dni": "enc:sRFpM3qiiMg=",
+            "fecha": "21/10/2026",
+            "hora": "10:30",
+            "motivo": "Revisión dermatológica",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0003",
+            "mascota_id": "M-0003",
+            "mascota": "Milo",
+            "propietario_id": "P-0003",
+            "propietario_dni": "enc:sRFiMnuigME=",
+            "fecha": "21/10/2026",
+            "hora": "15:00",
+            "motivo": "Chequeo anual",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0004",
+            "mascota_id": "M-0004",
+            "mascota": "Kira",
+            "propietario_id": "P-0004",
+            "propietario_dni": "enc:sRFvOHOigsA=",
+            "fecha": "22/10/2026",
+            "hora": "09:30",
+            "motivo": "Vacunación",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0005",
+            "mascota_id": "M-0005",
+            "mascota": "Simba",
+            "propietario_id": "P-0005",
+            "propietario_dni": "enc:sRFjNnaihcM=",
+            "fecha": "22/10/2026",
+            "hora": "11:00",
+            "motivo": "Revisión dental",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0006",
+            "mascota_id": "M-0006",
+            "mascota": "Nala",
+            "propietario_id": "P-0006",
+            "propietario_dni": "enc:sRFqNHurg8k=",
+            "fecha": "22/10/2026",
+            "hora": "16:00",
+            "motivo": "Control de peso",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0007",
+            "mascota_id": "M-0007",
+            "mascota": "Toby",
+            "propietario_id": "P-0007",
+            "propietario_dni": "enc:sRFiMnurhMA=",
+            "fecha": "23/10/2026",
+            "hora": "10:00",
+            "motivo": "Consulta general",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0008",
+            "mascota_id": "M-0008",
+            "mascota": "Coco",
+            "propietario_id": "P-0008",
+            "propietario_dni": "enc:sRFjNnCiicA=",
+            "fecha": "23/10/2026",
+            "hora": "14:30",
+            "motivo": "Control preventivo",
+            "estado": "Cancelada"
+        },
+        {
+            "id_ponkis": "C-0009",
+            "mascota_id": "M-0009",
+            "mascota": "Max",
+            "propietario_id": "P-0009",
+            "propietario_dni": "enc:sRFoOXWuicg=",
+            "fecha": "24/10/2026",
+            "hora": "09:00",
+            "motivo": "Desparasitación",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "C-0010",
+            "mascota_id": "M-0010",
+            "mascota": "Mía",
+            "propietario_id": "P-0010",
+            "propietario_dni": "enc:sRFsOHupgcA=",
+            "fecha": "24/10/2026",
+            "hora": "12:30",
+            "motivo": "Refuerzo vacuna",
+            "estado": "Pendiente"
+        }
+    ],
+    "pagos": [
+        {
+            "id_ponkis": "G-0001",
+            "concepto": "Atención de Luna",
+            "monto": 45.0,
+            "metodo": "Efectivo",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0002",
+            "concepto": "Atención de Rocky",
+            "monto": 60.0,
+            "metodo": "Yape",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0003",
+            "concepto": "Atención de Milo",
+            "monto": 55.0,
+            "metodo": "Plin",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0004",
+            "concepto": "Atención de Kira",
+            "monto": 70.0,
+            "metodo": "Tarjeta",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0005",
+            "concepto": "Atención de Simba",
+            "monto": 50.0,
+            "metodo": "Yape",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0006",
+            "concepto": "Atención de Nala",
+            "monto": 40.0,
+            "metodo": "Efectivo",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0007",
+            "concepto": "Atención de Toby",
+            "monto": 65.0,
+            "metodo": "Tarjeta",
+            "estado": "Confirmado"
+        },
+        {
+            "id_ponkis": "G-0008",
+            "concepto": "Atención de Coco",
+            "monto": 35.0,
+            "metodo": "Plin",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "G-0009",
+            "concepto": "Atención de Max",
+            "monto": 45.0,
+            "metodo": "Yape",
+            "estado": "Pendiente"
+        },
+        {
+            "id_ponkis": "G-0010",
+            "concepto": "Atención de Mía",
+            "monto": 55.0,
+            "metodo": "Efectivo",
+            "estado": "Pendiente"
+        }
+    ],
+    "atenciones": [
+        {
+            "id_ponkis": "A-0001",
+            "mascota_id": "M-0001",
+            "mascota": "Luna",
+            "propietario_dni": "enc:sRFqNnuogsY=",
+            "fecha": "04/10/2026",
+            "diagnostico": "Seguimiento de rutina",
+            "tratamiento": "Sin alteraciones",
+            "vacuna": "Ninguna"
+        },
+        {
+            "id_ponkis": "A-0002",
+            "mascota_id": "M-0002",
+            "mascota": "Rocky",
+            "propietario_dni": "enc:sRFpM3qiiMg=",
+            "fecha": "05/10/2026",
+            "diagnostico": "Irritación leve",
+            "tratamiento": "Higiene y control",
+            "vacuna": "Ninguna"
+        },
+        {
+            "id_ponkis": "A-0003",
+            "mascota_id": "M-0003",
+            "mascota": "Milo",
+            "propietario_dni": "enc:sRFiMnuigME=",
+            "fecha": "07/10/2026",
+            "diagnostico": "Estado general estable",
+            "tratamiento": "Control periódico",
+            "vacuna": "Antirrábica"
+        },
+        {
+            "id_ponkis": "A-0004",
+            "mascota_id": "M-0004",
+            "mascota": "Kira",
+            "propietario_dni": "enc:sRFvOHOigsA=",
+            "fecha": "08/10/2026",
+            "diagnostico": "Paciente sano",
+            "tratamiento": "Observación",
+            "vacuna": "Múltiple"
+        },
+        {
+            "id_ponkis": "A-0005",
+            "mascota_id": "M-0005",
+            "mascota": "Simba",
+            "propietario_dni": "enc:sRFjNnaihcM=",
+            "fecha": "10/10/2026",
+            "diagnostico": "Sarro leve",
+            "tratamiento": "Limpieza recomendada",
+            "vacuna": "Ninguna"
+        },
+        {
+            "id_ponkis": "A-0006",
+            "mascota_id": "M-0006",
+            "mascota": "Nala",
+            "propietario_dni": "enc:sRFqNHurg8k=",
+            "fecha": "11/10/2026",
+            "diagnostico": "Peso adecuado",
+            "tratamiento": "Dieta balanceada",
+            "vacuna": "Ninguna"
+        },
+        {
+            "id_ponkis": "A-0007",
+            "mascota_id": "M-0007",
+            "mascota": "Toby",
+            "propietario_dni": "enc:sRFiMnurhMA=",
+            "fecha": "13/10/2026",
+            "diagnostico": "Sin hallazgos",
+            "tratamiento": "Seguimiento",
+            "vacuna": "Antirrábica"
+        },
+        {
+            "id_ponkis": "A-0008",
+            "mascota_id": "M-0008",
+            "mascota": "Coco",
+            "propietario_dni": "enc:sRFjNnCiicA=",
+            "fecha": "16/10/2026",
+            "diagnostico": "Paciente estable",
+            "tratamiento": "Observación",
+            "vacuna": "Ninguna"
+        },
+        {
+            "id_ponkis": "A-0009",
+            "mascota_id": "M-0009",
+            "mascota": "Max",
+            "propietario_dni": "enc:sRFoOXWuicg=",
+            "fecha": "18/10/2026",
+            "diagnostico": "Control preventivo",
+            "tratamiento": "Desparasitación programada",
+            "vacuna": "Ninguna"
+        },
+        {
+            "id_ponkis": "A-0010",
+            "mascota_id": "M-0010",
+            "mascota": "Mía",
+            "propietario_dni": "enc:sRFsOHupgcA=",
+            "fecha": "20/10/2026",
+            "diagnostico": "Estado general normal",
+            "tratamiento": "Observación posterior",
+            "vacuna": "Triple felina"
+        }
+    ]
+}

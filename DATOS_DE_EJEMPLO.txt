@@ -1,0 +1,14 @@
+REGISTROS FICTICIOS DE DEMOSTRACIÓN - NO SON PERSONAS NI TELÉFONOS REALES
+Úsalos solo en prácticas locales. No llames ni envíes mensajes.
+
+ID Propietario | Propietario | DNI ficticio | Celular ficticio | ID Mascota | Mascota
+P-0001 | María Fernanda Rojas | 70168327 | 993778087 | M-0001 | Luna
+P-0002 | Carlos Eduardo Salazar | 70239989 | 914968134 | M-0002 | Rocky
+P-0003 | Valeria Quispe Ramos | 70928900 | 955793952 | M-0003 | Milo
+P-0004 | José Miguel Paredes | 70480921 | 953633085 | M-0004 | Kira
+P-0005 | Andrea Lucía Chávez | 70865952 | 965481767 | M-0005 | Simba
+P-0006 | Diego Alonso Campos | 70148038 | 981529788 | M-0006 | Nala
+P-0007 | Rosa Elena Medina | 70928041 | 995648779 | M-0007 | Toby
+P-0008 | Luis Alberto Mendoza | 70863991 | 928188127 | M-0008 | Coco
+P-0009 | Paola Isabel Torres | 70396599 | 979727913 | M-0009 | Max
+P-0010 | Jorge Antonio Flores | 70788211 | 903342638 | M-0010 | Mía
