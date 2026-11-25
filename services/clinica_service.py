@@ -844,8 +844,12 @@ class ClinicaService:
                     return False
                 cantidad = conexion.execute("SELECT COUNT(*) FROM propietarios").fetchone()[0]
                 otras = sum(
-                    conexion.execute(f"SELECT COUNT(*) FROM {tabla_nombre}").fetchone()[0]
-                    for tabla_nombre in ("mascotas", "citas", "pagos", "atenciones")
+                    (
+                        conexion.execute("SELECT COUNT(*) FROM mascotas").fetchone()[0],
+                        conexion.execute("SELECT COUNT(*) FROM citas").fetchone()[0],
+                        conexion.execute("SELECT COUNT(*) FROM pagos").fetchone()[0],
+                        conexion.execute("SELECT COUNT(*) FROM atenciones").fetchone()[0],
+                    )
                 )
                 return cantidad + otras > 0
         except sqlite3.Error:
@@ -912,8 +916,11 @@ class ClinicaService:
                 """
             )
             self._asegurar_columnas_mascotas(conexion)
-            for tabla in ("atenciones", "citas", "pagos", "mascotas", "propietarios"):
-                conexion.execute(f"DELETE FROM {tabla}")
+            conexion.execute("DELETE FROM atenciones")
+            conexion.execute("DELETE FROM citas")
+            conexion.execute("DELETE FROM pagos")
+            conexion.execute("DELETE FROM mascotas")
+            conexion.execute("DELETE FROM propietarios")
 
             conexion.executemany(
                 "INSERT INTO propietarios VALUES (?, ?, ?, ?)",
